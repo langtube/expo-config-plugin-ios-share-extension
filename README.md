@@ -8,7 +8,7 @@ It wil handle (nearly) all the for you, like registering the iOS Share Extension
 Install it in your project:
 
 ```sh
-expo install expo-config-plugin-ios-share-extension
+expo install expo-config-plugin-ios-share-extension-rn-72
 ```
 
 In your app’s Expo config (app.json, or app.config.js), make sure that `expo-config-plugin-ios-share-extension` has been added to the list of plugins. Under scheme, define your apps scheme.
