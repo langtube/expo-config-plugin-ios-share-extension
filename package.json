@@ -44,6 +44,6 @@
     "xcode": "^3.0.1"
   },
   "peerDependencies": {
-    "react-native": "^0.69.4"
+    "react-native": "^0.72.10"
   }
 }
